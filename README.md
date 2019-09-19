@@ -8,7 +8,8 @@
 4. Fill out an account name **Personal Webpage**. Then, click next: ![Setup](https://github.com/colinjianingxie/PortfoliaTutorials/blob/master/imgs/setup.png)
 5. Fill out your website name **My Personal Website**, your personal website URL, Then, click next: ![Create](https://github.com/colinjianingxie/PortfoliaTutorials/blob/master/imgs/create.png)
 6. Accept all the terms of conditions, and click "I accept"
-7. Copy the code as circled, then send the code as the message to: **portfolia.admin@gmail.com** with the following subject: **Submission #(insert submission number) Google Analytics**
+7. Copy the code as circled: ![Code](https://github.com/colinjianingxie/PortfoliaTutorials/blob/master/imgs/code.png)
+8. Send the code as the message to: **portfolia.admin@gmail.com** with the following subject: **G.A #(submission number)**
 
 ## How To Check Your Analytics
 
